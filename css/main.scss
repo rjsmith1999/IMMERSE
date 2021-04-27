@@ -282,24 +282,46 @@ $sidebar-hover-color: $secondary-color1;
 #page-content-wrapper {
     min-width: 100vw;
   }
-  
-  
 
-h1 {
-    padding-top: 20px;
+
+h2 {
+    margin-bottom: 10px;
 }
 
 h3 {
     text-transform: uppercase;
     color: gray;
     font-size: 1.3rem;
-    margin-top: 50px;
 }
 
-.title-text {
-    font-size: xxx-large;
-    font-weight: 800;
-    color:black;
+.page-title {
+    margin-bottom: 0px;
     text-align: center;
 }
 
+.title-bar {
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 15px;
+    padding-right: 15px;
+    margin-bottom: 15px;
+}
+
+.title-spacer {
+    padding-left: 5px;
+    padding-right:  5px;
+}
+
+.title-text {
+    font-size: xx-large;
+    font-weight: 600;
+    color:black;
+    text-align: center;
+    margin-bottom: 0px;
+}
+
+td {
+    padding-left: 5px;
+    padding-right: 5px;
+    padding-bottom: 5px;
+}

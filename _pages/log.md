@@ -38,7 +38,7 @@ title: IMMERSE Log
   - Talked with Michael Eyler from the shop about outreach pulse ox project
 
 * **Thursday**: 
-  - Continued work on drivers for lab2
+  - Finished drivers for lab2
 <!-- * **Friday**: -->
 
 -------------------

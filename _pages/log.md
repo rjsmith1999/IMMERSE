@@ -37,8 +37,9 @@ title: IMMERSE Log
   - Wrote basic buttons driver for lab2
   - Talked with Michael Eyler from the shop about outreach pulse ox project
 
-<!-- * **Thursday**: 
-* **Friday**: -->
+* **Thursday**: 
+  - Continued work on drivers for lab2
+<!-- * **Friday**: -->
 
 -------------------
 ## TODO:

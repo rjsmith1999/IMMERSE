@@ -19,6 +19,11 @@ title: IMMERSE Log
   - Met with Dr. Wirthlin to discuss personal goals for scubber on SSP
   - Updated ccl website with my info
 
+  - Downloaded the hybrid scrubber code from github, and added it to the premade projects for the zedboard and ZC706.. was able to generate a bitstream successfully for Zedboard.. however I don't have a license to run sythesis for the ZC706 part..
+  - Some notes about the hybrid_scrubber repo and premade projects:
+  -  It looks like the hybrid scrubber (hardware) from the repository is packaged as a Vivado IP block.
+  - The projects are just simple block projects that generate the hybrid scrubber IP and connect it to the processor
+
 ### Break: Apr 30 - May 13
   - Read thesis on FPGA scrubbers
   - Met with Dr. Wirthlin and Sebastian about CSP/SSP Project
@@ -51,9 +56,11 @@ title: IMMERSE Log
 
 -------------------
 ## TODO:
-- Finish 427 Lab 2
-- Get scrubber projects to build
+- Learn the process of building linux for Zynq/MPSoc (how and where do I apply the xdevconfig patch)
+- Maybe look at a tutorial for block designs in Vivado?
+
+- Finish 427 Lab 2 (and maybe look at the other Kernel labs)
 - Read linux on MPSoc documentation from William
-- Study up on JTAG
+
 - Read documentation for PulseOx project
 - Make presentation for Linux on MPSoc

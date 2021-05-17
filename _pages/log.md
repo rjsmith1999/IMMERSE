@@ -17,11 +17,15 @@ title: IMMERSE Log
 ### Week 4: May 17, 2021
 * **Goals**:
   - Get scrubber reference projects running on all boards
+  - Run scrubber and generate FRAD's list
   - Understand the process of creating those projects from scratch (using William's documentation)
+  - Document in detail how to use the example projects
 
 * **Monday**:
   - Downloaded Sebastian's referce project, attempting to build for zedboard
   - Installed petalinux tools
+  - After lots of trial and error, I understand better the process for building petalinux for the zedboard.
+  - Successfully booted petalinux on zedboard
 
 ### Week 3: May 10, 2021
 * **Friday**: 

@@ -14,6 +14,15 @@ title: IMMERSE Log
 -------------------
 ## Log:
 
+### Week 4: May 17, 2021
+* **Goals**:
+  - Get scrubber reference projects running on all boards
+  - Understand the process of creating those projects from scratch (using William's documentation)
+
+* **Monday**:
+  - Downloaded Sebastian's referce project, attempting to build for zedboard
+  - Installed petalinux tools
+
 ### Week 3: May 10, 2021
 * **Friday**: 
   - Met with Dr. Wirthlin to discuss personal goals for scubber on SSP

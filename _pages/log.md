@@ -27,6 +27,12 @@ title: IMMERSE Log
   - After lots of trial and error, I understand better the process for building petalinux for the zedboard.
   - Successfully booted petalinux on zedboard
 
+* **Tuesday**:
+  - Confirmed Scrubber runs on zedboard and zc706
+  - Spent some time studying the scrubbing app code
+  - Something is causing the scrubber on the zc706 to detect errors, maybe its just the frads list, need to investigate more..
+
+
 ### Week 3: May 10, 2021
 * **Friday**: 
   - Met with Dr. Wirthlin to discuss personal goals for scubber on SSP

@@ -32,6 +32,10 @@ title: IMMERSE Log
   - Spent some time studying the scrubbing app code
   - Something is causing the scrubber on the zc706 to detect errors, maybe its just the frads list, need to investigate more..
 
+* **Wednesday**:
+  - Worked on outreach stuff
+  - Played around with fault injection in the scrubbing code
+  - Started a basic frad list generator using the pcap
 
 ### Week 3: May 10, 2021
 * **Friday**: 

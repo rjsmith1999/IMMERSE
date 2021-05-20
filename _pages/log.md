@@ -38,6 +38,11 @@ title: IMMERSE Log
   - Started a basic frad list generator using the pcap
   - Used frad list generator to modify code for zc706, awaiting more testing
 
+* **Thursday**:
+  - Worked on outreach stuff
+  - Played around with fault injection in the scrubbing code
+  - Made a change to scrubber, fault injection now works correctly on zedboard, FRAME_ECC still returns meaningless data on zc706, need to understand why
+
 ### Week 3: May 10, 2021
 * **Friday**: 
   - Met with Dr. Wirthlin to discuss personal goals for scubber on SSP

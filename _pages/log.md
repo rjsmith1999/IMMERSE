@@ -36,6 +36,7 @@ title: IMMERSE Log
   - Worked on outreach stuff
   - Played around with fault injection in the scrubbing code
   - Started a basic frad list generator using the pcap
+  - Used frad list generator to modify code for zc706, awaiting more testing
 
 ### Week 3: May 10, 2021
 * **Friday**: 
@@ -76,8 +77,12 @@ title: IMMERSE Log
   - Xilinx configuration guide
   - Ultrascale+ Reference manual
 
-
 -------------------
+## Docs to make:
+ - deploy.sh to package and copy the petalinux build
+ - How to format the sd card
+ - How to make a new app for petalinux
+
 ## TODO:
 - Learn the process of building linux for Zynq/MPSoc (how and where do I apply the xdevconfig patch)
 - Maybe look at a tutorial for block designs in Vivado?

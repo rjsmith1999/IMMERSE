@@ -106,6 +106,8 @@ title: IMMERSE Log
 ## TODO:
 - Check to see turning off the undocumented flags does anything?
 - Try a different way of reading the frame ecc device (kernel module?)
+- Try going back to sebastians initial project and see if that works with a new frads list?
+
 - Maybe look at a tutorial for block designs in Vivado?
 - Clean up the readback only scrubber for better printouts
 

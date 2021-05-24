@@ -22,6 +22,8 @@ title: IMMERSE Log
 
 * **Monday**:
   - More testing.. Still not working on zc706
+  - Made a modified version of the scrubber that only uses the crc and not the ecc checks.. basically a readback only scrubber
+  - Simplified git history and pushed all my work to github under the two branches zc7045-updates (main code) and debug-fault-inject (WIP code)
 
 
 ### Week 4: May 17, 2021

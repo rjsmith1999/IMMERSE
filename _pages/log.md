@@ -14,6 +14,16 @@ title: IMMERSE Log
 -------------------
 ## Log:
 
+### Week 5: May 24 - May 28, 2021
+* **Goals**:
+  - Figure out why the FrameECC/byu hybrid scrubber ip isn't working on the zc706
+  - Comunicate findings to Sebastian and Dr. Wirthlin
+  - If we can't get it working, look at adapting the code for readback and/or blind scrubbing.
+
+* **Monday**:
+  - More testing.. Still not working on zc706
+
+
 ### Week 4: May 17, 2021
 * **Goals**:
   - Get scrubber reference projects running on all boards

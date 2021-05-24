@@ -20,6 +20,7 @@ title: IMMERSE Log
   - Comunicate findings to Sebastian and Dr. Wirthlin
   - If we can't get it working, look at adapting the code for readback and/or blind scrubbing. (Done)
   - Ask around for the source design of the hybrid-scrubber for better debuging
+  - Get another microsd -> sd card adapter so I can run both boards at once
 
 * **Monday**:
   - More testing.. Still not working on zc706

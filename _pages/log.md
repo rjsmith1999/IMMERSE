@@ -103,7 +103,8 @@ title: IMMERSE Log
  - How to make a new app for petalinux
 
 ## TODO:
-- Learn the process of building linux for Zynq/MPSoc (how and where do I apply the xdevconfig patch)
+- Check to see turning off the undocumented flags does anything?
+- Try a different way of reading the frame ecc device (kernel module?)
 - Maybe look at a tutorial for block designs in Vivado?
 
 - Finish 427 Lab 2 (and maybe look at the other Kernel labs)

@@ -18,7 +18,8 @@ title: IMMERSE Log
 * **Goals**:
   - Figure out why the FrameECC/byu hybrid scrubber ip isn't working on the zc706
   - Comunicate findings to Sebastian and Dr. Wirthlin
-  - If we can't get it working, look at adapting the code for readback and/or blind scrubbing.
+  - If we can't get it working, look at adapting the code for readback and/or blind scrubbing. (Done)
+  - Ask around for the source design of the hybrid-scrubber for better debuging
 
 * **Monday**:
   - More testing.. Still not working on zc706

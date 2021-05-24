@@ -19,6 +19,7 @@ title: IMMERSE Log
   - Figure out why the FrameECC/byu hybrid scrubber ip isn't working on the zc706
   - Comunicate findings to Sebastian and Dr. Wirthlin
   - If we can't get it working, look at adapting the code for readback and/or blind scrubbing. (Done)
+  - Test Readback scrubber on zc706..
   - Ask around for the source design of the hybrid-scrubber for better debuging
   - Get another microsd -> sd card adapter so I can run both boards at once
 
@@ -106,6 +107,7 @@ title: IMMERSE Log
 - Check to see turning off the undocumented flags does anything?
 - Try a different way of reading the frame ecc device (kernel module?)
 - Maybe look at a tutorial for block designs in Vivado?
+- Clean up the readback only scrubber for better printouts
 
 - Finish 427 Lab 2 (and maybe look at the other Kernel labs)
 - Read linux on MPSoc documentation from William

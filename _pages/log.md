@@ -21,12 +21,19 @@ title: IMMERSE Log
   - If we can't get it working, look at adapting the code for readback and/or blind scrubbing. (Done)
   - Test Readback scrubber on zc706..
   - Ask around for the source design of the hybrid-scrubber for better debuging
-  - Get another microsd -> sd card adapter so I can run both boards at once
+  - Get another microsd -> sd card adapter so I can run both boards at once (DONE)
 
 * **Monday**:
   - More testing.. Still not working on zc706
   - Made a modified version of the scrubber that only uses the crc and not the ecc checks.. basically a readback only scrubber
   - Simplified git history and pushed all my work to github under the two branches zc7045-updates (main code) and debug-fault-inject (WIP code)
+
+* **Tuesday**:
+  - Going to test crc only scrubber on the z7045
+  - Need to summarize current probelem on github issues
+  - Document the expected behavior of the hybrid scrubber registers, use them to recreate the ip?
+  - Translated the hybrid scrubber ip to verilog by hand (almost, still need to recreate the block design)
+  - Discovered that both the PCAP and the ICAP take a specific device ID, added code to generate the device id from the frad-gen-app
 
 
 ### Week 4: May 17, 2021
@@ -107,6 +114,7 @@ title: IMMERSE Log
 - Check to see turning off the undocumented flags does anything?
 - Try a different way of reading the frame ecc device (kernel module?)
 - Try going back to sebastians initial project and see if that works with a new frads list?
+- Document the expected behavior of the hybrid scrubber registers, use them to recreate the ip?
 
 - Maybe look at a tutorial for block designs in Vivado?
 - Clean up the readback only scrubber for better printouts

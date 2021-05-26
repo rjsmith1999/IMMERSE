@@ -116,6 +116,9 @@ title: IMMERSE Log
  - How to make a new app for petalinux
 
 ## TODO:
+- Try deploying current version to board and see what happens
+- Try adding new ip to sebastians project
+- Try generating the hardware definition again and see if that works
 - Check to see turning off the undocumented flags does anything?
 - Try a different way of reading the frame ecc device (kernel module?)
 - Try going back to sebastians initial project and see if that works with a new frads list?

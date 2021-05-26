@@ -16,7 +16,7 @@ title: IMMERSE Log
 
 ### Week 5: May 24 - May 28, 2021
 * **Goals**:
-  - Figure out why the FrameECC/byu hybrid scrubber ip isn't working on the zc706
+  - Figure out why the FrameECC/byu hybrid scrubber ip isn't working on the zc706 (could be DEVICE_ID)
   - Comunicate findings to Sebastian and Dr. Wirthlin
   - If we can't get it working, look at adapting the code for readback and/or blind scrubbing. (Done)
   - Test Readback scrubber on zc706..
@@ -34,6 +34,11 @@ title: IMMERSE Log
   - Document the expected behavior of the hybrid scrubber registers, use them to recreate the ip?
   - Translated the hybrid scrubber ip to verilog by hand (almost, still need to recreate the block design)
   - Discovered that both the PCAP and the ICAP take a specific device ID, added code to generate the device id from the frad-gen-app
+  - Accidentally deleted the hybrid scrubber ip project I wrote in verilog. I'll have to recreate it later (and add it to the github project)
+
+* **Wednesday**:
+ - Tried to make a new project for zc706 board, it didn't work
+ - Going to try a different way of modifying the exisiting project, we'll see what that does..
 
 
 ### Week 4: May 17, 2021

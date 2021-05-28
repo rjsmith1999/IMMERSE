@@ -41,8 +41,9 @@ title: IMMERSE Log
  - Going to try a different way of modifying the exisiting project, we'll see what that does..
 
 * **Friday**:
- - Tried to make a new project for zc706 board, it didn't work
- - Going to try a different way of modifying the exisiting project, we'll see what that does..
+ - Discovered that the new project I created didn't configure the processing system correctly, and that broke the petalinux config as well. After importing the zc706 preset to the new project I created, and reverting the petalinux config file to the original version, I was able to deploy my new project onto the zc706 board. 
+ - New project works! Changing the ip to only write to the fifo when fecc_eccerr goes high seemed to help the zc706 board to work correctly. I should probably go back and check to make sure that was really the fix, or if other changes might be neccesary. Maybe I can discover why the frame_ecce2 does weird things on the zc706 in the first place.
+ - Now: report findings to dr wirthlin and sebastian, clean up projects, etc.
 
 
 ### Week 4: May 17, 2021
@@ -118,8 +119,13 @@ title: IMMERSE Log
  - deploy.sh to package and copy the petalinux build
  - How to format the sd card
  - How to make a new app for petalinux
+ - How to configure a new project for the zc706
 
 ## TODO:
+- Clean up hybrid_ip project, maybe apply the new ip to the exisiting projects (after some more verification probably)
+- Clean up and archive frame_ecc_driver project. Maybe need to edit the src_project script to make sure it saves the project as is? or just not worry about it.. or maybe there is a way to generate the script from vivado? Ask sebastian
+- Also, I should check to see if the icap instance and the xadc instance are really neccessary?
+
 - Try deploying current version to board and see what happens
 - Try adding new ip to sebastians project
 - Try generating the hardware definition again and see if that works

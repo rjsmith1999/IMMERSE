@@ -40,6 +40,10 @@ title: IMMERSE Log
  - Tried to make a new project for zc706 board, it didn't work
  - Going to try a different way of modifying the exisiting project, we'll see what that does..
 
+* **Friday**:
+ - Tried to make a new project for zc706 board, it didn't work
+ - Going to try a different way of modifying the exisiting project, we'll see what that does..
+
 
 ### Week 4: May 17, 2021
 * **Goals**:

@@ -22,6 +22,11 @@ title: IMMERSE Log
 
 * **Monday**:
   - Emailed Sebastian over the weekend, we discussed further changes to the scrubber we could make to support the CASPR project.
+  - Quickly tested new ip on zedboard, seems to work ok
+  - _TODO:_
+    - Going to finish testing the device id parameter to see if it is even neccessary
+    - Going to edit scripts for vivado 2019.2, make sure everything is good there
+    - Going to create a new version of the c code, formated like sebastians example, maybe break things out into more files
 
 
 ### Week 5: May 24 - May 28, 2021

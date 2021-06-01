@@ -16,9 +16,9 @@ title: IMMERSE Log
 
 ### Week 5: June 1 - June 4, 2021
 * **Goals**:
- - [x] Apply updated ip to sebastians example projects for the zedboard and zc706
- - [x] Test on zedboard
- - Update c application to run as a client server program
+  - [x] Apply updated ip to sebastians example projects for the zedboard and zc706
+  - [x] Test on zedboard
+  - [ ] Update c application to run as a client server program
 
 * **Monday**:
   - Emailed Sebastian over the weekend, we discussed further changes to the scrubber we could make to support the CASPR project.

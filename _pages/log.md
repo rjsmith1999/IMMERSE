@@ -16,16 +16,17 @@ title: IMMERSE Log
 
 ### Week 5: June 1 - June 4, 2021
 * **Goals**:
- - Apply updated ip to sebastians example projects for the zedboard and zc706
- - Test on zedboard
+ - [x] Apply updated ip to sebastians example projects for the zedboard and zc706
+ - [x] Test on zedboard
  - Update c application to run as a client server program
 
 * **Monday**:
   - Emailed Sebastian over the weekend, we discussed further changes to the scrubber we could make to support the CASPR project.
   - Quickly tested new ip on zedboard, seems to work ok
   - Finished testing the device id parameter, doesn't seem to be neccessary, probably don't need to instance the icap at all? (unless its for clocking purposes)
+  - Recreated project scripts for vivado 2019.2, everything seems to be good there
+  - Added some more documentation about the updated ip core. 
   - _TODO:_
-    - Going to edit scripts for vivado 2019.2, make sure everything is good there
     - Going to create a new version of the c code, formated like sebastians example, maybe break things out into more files
 
 

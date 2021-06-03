@@ -20,7 +20,7 @@ title: IMMERSE Log
   - [x] Test on zedboard
   - [ ] Update c application to run as a client server program
 
-* **Monday**:
+* **Tuesday**:
   - Emailed Sebastian over the weekend, we discussed further changes to the scrubber we could make to support the CASPR project.
   - Quickly tested new ip on zedboard, seems to work ok
   - Finished testing the device id parameter, doesn't seem to be neccessary, probably don't need to instance the icap at all? (unless its for clocking purposes)
@@ -28,6 +28,12 @@ title: IMMERSE Log
   - Added some more documentation about the updated ip core. 
   - _TODO:_
     - Going to create a new version of the c code, formated like sebastians example, maybe break things out into more files
+
+* **Wednesday**:
+  - Restructured the c app in preparation for srvcli version
+    - Way more files now, but hopefully easier to maintain and adapt to the srvcli format
+  - _TODO:_
+    - Finish adapting code to work as srvcli
 
 
 ### Week 5: May 24 - May 28, 2021

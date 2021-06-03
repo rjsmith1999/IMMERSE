@@ -30,7 +30,7 @@ title: IMMERSE Log
     - Going to create a new version of the c code, formated like sebastians example, maybe break things out into more files
 
 * **Wednesday**:
-  - Restructured the c app in preparation for srvcli version
+  - Restructured the c app in preparation for srvcli version (WIP on srv-cli branch)
     - Way more files now, but hopefully easier to maintain and adapt to the srvcli format
   - _TODO:_
     - Finish adapting code to work as srvcli

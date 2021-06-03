@@ -35,6 +35,11 @@ title: IMMERSE Log
   - _TODO:_
     - Finish adapting code to work as srvcli
 
+* **Thursday**:
+  - Finished updated c code to work in srvcli format, 
+  - _TODO:_
+    - Test new scrubber version
+
 
 ### Week 5: May 24 - May 28, 2021
 * **Goals**:

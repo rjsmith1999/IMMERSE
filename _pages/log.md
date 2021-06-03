@@ -36,9 +36,12 @@ title: IMMERSE Log
     - Finish adapting code to work as srvcli
 
 * **Thursday**:
-  - Finished updated c code to work in srvcli format, 
+  - Finished updated c code to work in srvcli format
   - _TODO:_
-    - Test new scrubber version
+    - Figure out why the usleep delay doesn't work
+    - Edit the code to support fault injection
+    - Edit the code to actually correct errors
+    - Test with fault injection
 
 
 ### Week 5: May 24 - May 28, 2021

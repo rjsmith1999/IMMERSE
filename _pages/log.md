@@ -39,9 +39,8 @@ title: IMMERSE Log
   - Finished updated c code to work in srvcli format
   - _TODO:_
     - Figure out why the usleep delay doesn't work
-    - Edit the code to support fault injection
-    - Edit the code to actually correct errors
     - Test with fault injection
+    - Get rid of the weird 10sec delay
 
 
 ### Week 5: May 24 - May 28, 2021

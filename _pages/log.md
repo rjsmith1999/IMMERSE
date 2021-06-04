@@ -44,9 +44,9 @@ title: IMMERSE Log
 
 * **Friday**:
   - Fixed some of the timing bugs, should be pretty close to finishing now
+  - Check for infinite loops (add a simulated watchdog and alert in the status message)
   - _TODO:_
     - Test with fault injection _on both boards_
-    - Check for risk of any infinite loops (maybe add a simulated watchdog and alert in the status message)
     - Verify with Sebastian it meets all of his requirements
 
 ### Week 5: May 24 - May 28, 2021

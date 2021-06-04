@@ -48,6 +48,7 @@ title: IMMERSE Log
   - _TODO:_
     - Test with fault injection _on both boards_
     - Verify with Sebastian it meets all of his requirements
+    - Update Documentation to match new file structure
 
 ### Week 5: May 24 - May 28, 2021
 * **Goals**:

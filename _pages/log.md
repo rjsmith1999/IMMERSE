@@ -20,7 +20,9 @@ title: IMMERSE Log
   - [ ] Finish testing new scrubber and ship to Sebastian
 
 * **Monday**:
-  - Emailed Sebastian over the weekend, we discussed further changes to the scrubber we could make to support the CASPR project.
+  - Found the bug in crc_latch logic. I was dumb, and put a bit in the wrong place in a multi-bit wire. After opening up the project in simulation it became obvious what I did.
+  - _TODO:_
+    - Finish updating both projects to use the patched ip, more testing
 
 ### Week 5: June 1 - June 4, 2021
 * **Goals**:

@@ -16,13 +16,21 @@ title: IMMERSE Log
 
 ### Week 6: June 7 - June 11, 2021
 * **Goals**:
-  - [ ] Fix bug in crc_latch
+  - [x] Fix bug in crc_latch
   - [ ] Finish testing new scrubber and ship to Sebastian
 
 * **Monday**:
   - Found the bug in crc_latch logic. I was dumb, and put a bit in the wrong place in a multi-bit wire. After opening up the project in simulation it became obvious what I did.
   - _TODO:_
-    - Finish updating both projects to use the patched ip, more testing
+    - Finish updating both projects to use the patched ip
+      - Write hardware zed
+      - Gen Project zed
+      - Write TCL Script and delete IP project for now
+      - Run petalinux-config get-hw on petazed
+      - Commit
+    - Test with fault injection _on both boards_
+    - Verify with Sebastian it meets all of his requirements
+    - Update Documentation to match new file structure
 
 ### Week 5: June 1 - June 4, 2021
 * **Goals**:

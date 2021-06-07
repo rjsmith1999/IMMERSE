@@ -14,6 +14,14 @@ title: IMMERSE Log
 -------------------
 ## Log:
 
+### Week 6: June 7 - June 11, 2021
+* **Goals**:
+  - [ ] Fix bug in crc_latch
+  - [ ] Finish testing new scrubber and ship to Sebastian
+
+* **Monday**:
+  - Emailed Sebastian over the weekend, we discussed further changes to the scrubber we could make to support the CASPR project.
+
 ### Week 5: June 1 - June 4, 2021
 * **Goals**:
   - [x] Apply updated ip to sebastians example projects for the zedboard and zc706

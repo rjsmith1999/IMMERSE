@@ -34,6 +34,15 @@ title: IMMERSE Log
     - Verify with Sebastian it meets all of his requirements
     - Update Documentation to match new file structure
 
+* **Tuesday**:
+  - Oops.. At some point I gave the zedboard code the wrong device id.. it works now
+  - Found another bug.. right now trying a full readback scrub after disabling/enabling the scrubber on the zed board breaks the whole board
+  - Need to check: Can I replicate on zc706, can I replicate in readback only mode, what data might be left around between enabling/disabling the scrubber 
+  - _TODO:_
+    - Verify with Sebastian it meets all of his requirements
+    - Update Documentation to match new file structure
+
+
 ### Week 5: June 1 - June 4, 2021
 * **Goals**:
   - [x] Apply updated ip to sebastians example projects for the zedboard and zc706

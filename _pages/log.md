@@ -21,6 +21,7 @@ title: IMMERSE Log
 
 * **Monday**:
   - Found the bug in crc_latch logic. I was dumb, and put a bit in the wrong place in a multi-bit wire. After opening up the project in simulation it became obvious what I did.
+  - Seems to be working good on the zc706. Unfortunatly there is some bug causing fault injection to not work on the zedboard. The old scrubber works fine, but the new code with the srvcli stuff breaks things. (but only on the zedboard)
   - _TODO:_
     - Finish updating both projects to use the patched ip
       - Write hardware zed
@@ -29,6 +30,7 @@ title: IMMERSE Log
       - Run petalinux-config get-hw on petazed
       - Commit
     - Test with fault injection _on both boards_
+      - It seems faults (at least multi-bit even faults) are not detected on zedboard yet?
     - Verify with Sebastian it meets all of his requirements
     - Update Documentation to match new file structure
 

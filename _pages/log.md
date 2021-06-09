@@ -43,6 +43,12 @@ title: IMMERSE Log
     - Verify with Sebastian it meets all of his requirements
     - Update Documentation to match new file structure
 
+* **Wednesday**:
+  - Went back and realized it didn't really fix the enable/disable bug.. should be good now..
+  - _TODO:_
+    - Verify with Sebastian it meets all of his requirements
+    - Update Documentation to match new file structure
+
 
 ### Week 5: June 1 - June 4, 2021
 * **Goals**:

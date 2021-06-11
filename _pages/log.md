@@ -17,7 +17,8 @@ title: IMMERSE Log
 ### Week 6: June 7 - June 11, 2021
 * **Goals**:
   - [x] Fix bug in crc_latch
-  - [ ] Finish testing new scrubber and ship to Sebastian
+  - [x] Finish testing new scrubber and ship to Sebastian
+  - [x] Take inventory of exisiting scrubbers
 
 * **Monday**:
   - Found the bug in crc_latch logic. I was dumb, and put a bit in the wrong place in a multi-bit wire. After opening up the project in simulation it became obvious what I did.
@@ -49,6 +50,9 @@ title: IMMERSE Log
     - Verify with Sebastian it meets all of his requirements
     - Update Documentation to match new file structure
 
+* **Thursday**:
+  - Discussed with Dr. Wirthlin future goals for pcap scrubbers and linux
+  - Took inventory of exisiting scrubbers, developed plan for organization
 
 ### Week 5: June 1 - June 4, 2021
 * **Goals**:
@@ -192,8 +196,20 @@ title: IMMERSE Log
  - How to format the sd card
  - How to make a new app for petalinux
  - How to configure a new project for the zc706
+ - Overview of Hybrid scrubbing at byu (matrix of scrubber types, (readback, frameecc, blind), (linux, baremetal), (mpsoc, zed, pcap differeneces), (pcap, icap, jtag))
+ - List of hybrid scrubbers at byu
+ - Clean up/organize docs
+ - Document gotchas (like the readback mode on my scrubber that doesn't actually do anything useful)
+ - Better readme overall (Why would someone be interested in this repo, What the purpose is, type of scrubber from above matrix)
+ - Index of all readme's, cleanup?
 
-## TODO:
+ Right now my docs are extensive but not well done.. lets fix that (lest docs that say more)
+
+## Rainy day TODO:
+- Look at that one bug in the stress test
+- Update baremetal zynq scrubber
+- Fix my readback only scrubber or delete it
+
 - Clean up hybrid_ip project, maybe apply the new ip to the exisiting projects (after some more verification probably)
 - Clean up and archive frame_ecc_driver project. Maybe need to edit the src_project script to make sure it saves the project as is? or just not worry about it.. or maybe there is a way to generate the script from vivado? Ask sebastian
 - Also, I should check to see if the icap instance and the xadc instance are really neccessary?

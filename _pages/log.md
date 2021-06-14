@@ -64,6 +64,9 @@ title: IMMERSE Log
   - Discussed with Dr. Wirthlin future goals for pcap scrubbers and linux
   - Took inventory of exisiting scrubbers, developed plan for organization
 
+* **Friday**:
+  - Did some work on outreach project for the ELC
+
 ### Week 5: June 1 - June 4, 2021
 * **Goals**:
   - [x] Apply updated ip to sebastians example projects for the zedboard and zc706

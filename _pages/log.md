@@ -14,6 +14,16 @@ title: IMMERSE Log
 -------------------
 ## Log:
 
+### Week 7: June 14 - June 28, 2021
+* **Goals**:
+  - [ ] Test scrubber for PR 
+  - [ ] Add file logging for scrubber
+  - [ ] Create example repo for proposed pcap scrubber organization
+  - [ ] Aquire an Ultra96 and start building the MPSoc scrubber
+
+* **Monday**:
+  - 
+
 ### Week 6: June 7 - June 11, 2021
 * **Goals**:
   - [x] Fix bug in crc_latch

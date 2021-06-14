@@ -23,6 +23,8 @@ title: IMMERSE Log
 
 * **Monday**:
   - Created a basic example repo for pcap scrubbers [here](https://github.com/rjsmith1999/pcap_scrubbing)
+  - Copied docs from hybrid_scrubber repo to demo repo
+  - Added file logging to scrubber
 
 ### Week 6: June 7 - June 11, 2021
 * **Goals**:

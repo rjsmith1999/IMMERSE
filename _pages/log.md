@@ -16,15 +16,19 @@ title: IMMERSE Log
 
 ### Week 7: June 14 - June 28, 2021
 * **Goals**:
-  - [ ] Test scrubber for PR 
-  - [ ] Add file logging for scrubber
   - [ ] Create example repo for proposed pcap scrubber organization
-  - [ ] Aquire an Ultra96 and start building the MPSoc scrubber
+
+  - [ ] Test scrubber for PR 
+  - [x] Add file logging for scrubber
+
+  - [x] Aquire an Ultra96
+  - [ ] Start building the MPSoc scrubber
 
 * **Monday**:
   - Created a basic example repo for pcap scrubbers [here](https://github.com/rjsmith1999/pcap_scrubbing)
   - Copied docs from hybrid_scrubber repo to demo repo
   - Added file logging to scrubber
+  - Squashed more bugs in the hybrid scrubber
 
 ### Week 6: June 7 - June 11, 2021
 * **Goals**:

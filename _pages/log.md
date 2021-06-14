@@ -22,7 +22,7 @@ title: IMMERSE Log
   - [ ] Aquire an Ultra96 and start building the MPSoc scrubber
 
 * **Monday**:
-  - 
+  - Created a basic example repo for pcap scrubbers [here](https://github.com/rjsmith1999/pcap_scrubbing)
 
 ### Week 6: June 7 - June 11, 2021
 * **Goals**:

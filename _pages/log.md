@@ -30,6 +30,9 @@ title: IMMERSE Log
   - Added file logging to scrubber
   - Squashed more bugs in the hybrid scrubber
 
+* **Tuesday**:
+  - Fixed potential memory leak in hybrid scrubber
+
 ### Week 6: June 7 - June 11, 2021
 * **Goals**:
   - [x] Fix bug in crc_latch

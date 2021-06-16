@@ -39,6 +39,12 @@ title: IMMERSE Log
     - Add CSU/PCAP to the example project and test the scrubber
     - Finish Documenting the Bare Metal Scrubber
 
+* **Wednesday**:
+  - 
+  - _TODO:_
+    - Add CSU/PCAP to the example project and test the scrubber
+    - Finish Documenting the Bare Metal Scrubber
+
 ### Week 6: June 7 - June 11, 2021
 * **Goals**:
   - [x] Fix bug in crc_latch

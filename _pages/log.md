@@ -40,9 +40,13 @@ title: IMMERSE Log
     - Finish Documenting the Bare Metal Scrubber
 
 * **Wednesday**:
-  - 
+  - Figured out the the bare metal scrubber isn't working on the ultra96 because the fradslist is wrong
+  - Made a baremetal fradslist gen program
   - _TODO:_
-    - Add CSU/PCAP to the example project and test the scrubber
+    - Fixup the fradslist gen program
+    - Compare the fradlist with the new fradslist (are all the frame types the same)
+    - Add my code changes back to the repo (including fradslist)
+    - Maybe incorporate an example project?
     - Finish Documenting the Bare Metal Scrubber
 
 ### Week 6: June 7 - June 11, 2021

@@ -32,6 +32,12 @@ title: IMMERSE Log
 
 * **Tuesday**:
   - Fixed potential memory leak in hybrid scrubber
+  - Discovered that my Vitis2019.2 installation is broken, yay.
+  - Reinstalled Vitis.. something is still wrong?
+  - But was able to make an example bare metal project for the Ultra96
+  - _TODO:_
+    - Add CSU/PCAP to the example project and test the scrubber
+    - Finish Documenting the Bare Metal Scrubber
 
 ### Week 6: June 7 - June 11, 2021
 * **Goals**:

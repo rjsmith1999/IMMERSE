@@ -49,6 +49,10 @@ title: IMMERSE Log
     - Maybe incorporate an example project?
     - Finish Documenting the Bare Metal Scrubber
 
+* **Thursday**:
+  - Spent some time studying the bitstream format to understand why the readback scrubber isn't working
+
+
 ### Week 6: June 7 - June 11, 2021
 * **Goals**:
   - [x] Fix bug in crc_latch

@@ -14,7 +14,31 @@ title: IMMERSE Log
 -------------------
 ## Log:
 
-### Week 7: June 14 - June 28, 2021
+### Week 8: June 21 - June 25, 2021
+* **Goals**:
+  - [ ] Start building Petalinux for Ultra96
+  - [ ] Continue debugging the baremetal MPSoc scrubber
+
+* **Monday**:
+  - Worked more on disecting my example bitstream for the Ultra96. 
+  - I should be able to correleate the bitstream with non-zero frames here soon
+
+* **Tuesday**:
+  - Talked to Wesley about his experince. Offered a few tips.
+  - Read up on Williams documentation on Petalinux build for Ultra96. Shouldn't be too bad.
+  - Thought more about problems with the scrubber. My Frads list is significantly larger than the one in use by DTRA project.
+  Maybe there was something wrong with the fradlist I created.
+  - _TODO:_
+    - Check out how the scrubber code masks the frame types and compare with my Fradlist Gen
+    (Was my hypothisis correct about extending the frame lengths)
+    - Try throwing in the fradlist from the DTRA repo and seeing what that does
+    - Try commenting out that pl reset line that is removed in the DTRA repo
+    - Try getting rid of the watchdog and see if anything changes
+    - Adjust the printouts and see what frames are incorrect
+
+    - Create an example Ultra96 petalinux project in the new pcap_scrubbing repo
+
+### Week 7: June 14 - June 18, 2021
 * **Goals**:
   - [ ] Create example repo for proposed pcap scrubber organization
 

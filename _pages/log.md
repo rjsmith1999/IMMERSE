@@ -17,7 +17,7 @@ title: IMMERSE Log
 ### Week 8: June 21 - June 25, 2021
 * **Goals**:
   - [ ] Start building Petalinux for Ultra96
-  - [ ] Continue debugging the baremetal MPSoc scrubber
+  - [x] Continue debugging the baremetal MPSoc scrubber
 
 * **Monday**:
   - Worked more on disecting my example bitstream for the Ultra96. 
@@ -40,9 +40,8 @@ title: IMMERSE Log
 
 * **Wednesday**:
   - Ran the scrubber again, and aparently it works today? I think I might have been using the wrong fradslist by mistake.
+  - Documented everything up to this point, merged code changes back to repo
   - _TODO:_ 
-    - Document everything up to this point, merge code changes back to repo
-    - Make sure I can follow instructions and build the project from scratch
 
 
 ### Week 7: June 14 - June 18, 2021

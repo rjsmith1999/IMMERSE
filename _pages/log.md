@@ -41,6 +41,8 @@ title: IMMERSE Log
 * **Wednesday**:
   - Ran the scrubber again, and aparently it works today? I think I might have been using the wrong fradslist by mistake.
   - Documented everything up to this point, merged code changes back to repo
+  - Added petalinux and Vivado demo projects to repo
+  - Generated a test project for building petalinux for ultra96. It almost works.
   - _TODO:_ 
 
 

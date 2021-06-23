@@ -38,6 +38,13 @@ title: IMMERSE Log
 
     - Create an example Ultra96 petalinux project in the new pcap_scrubbing repo
 
+* **Wednesday**:
+  - Ran the scrubber again, and aparently it works today? I think I might have been using the wrong fradslist by mistake.
+  - _TODO:_ 
+    - Document everything up to this point, merge code changes back to repo
+    - Make sure I can follow instructions and build the project from scratch
+
+
 ### Week 7: June 14 - June 18, 2021
 * **Goals**:
   - [ ] Create example repo for proposed pcap scrubber organization

@@ -44,6 +44,7 @@ title: IMMERSE Log
   - Added petalinux and Vivado demo projects to repo
   - Generated a test project for building petalinux for ultra96. It almost works.
   - _TODO:_ 
+    - Test demo petalinux projects, clean up old project directories
 
 
 ### Week 7: June 14 - June 18, 2021

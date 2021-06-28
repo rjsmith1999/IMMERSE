@@ -14,6 +14,15 @@ title: IMMERSE Log
 -------------------
 ## Log:
 
+### Week 9: June 28 - July 2, 2021
+* **Goals**:
+  - [ ] Get Petalinux working for Ultra96
+
+* **Monday**:
+  - Config team meeting
+  - Continued working on petalinux build for Ultra96 
+
+
 ### Week 8: June 21 - June 25, 2021
 * **Goals**:
   - [ ] Start building Petalinux for Ultra96

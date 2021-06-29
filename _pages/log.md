@@ -11,6 +11,8 @@ title: IMMERSE Log
 |    2PM - 5PM        | 2PM - 5PM  |
 
 
+### I will be out of town until July 15th
+
 -------------------
 ## Log:
 
@@ -20,8 +22,11 @@ title: IMMERSE Log
 
 * **Monday**:
   - Config team meeting
-  - Continued working on petalinux build for Ultra96 
+  - Continued working on petalinux build for Ultra96
+  - Still Stuck.. William is going to share his project with me so I can compare the differences
 
+* **Tuesday**:
+  - Helped with chip camp
 
 ### Week 8: June 21 - June 25, 2021
 * **Goals**:

@@ -292,30 +292,12 @@ title: IMMERSE Log
  - Better readme overall (Why would someone be interested in this repo, What the purpose is, type of scrubber from above matrix)
  - Index of all readme's, cleanup?
 
- Right now my docs are extensive but not well done.. lets fix that (lest docs that say more)
+ Right now my docs are extensive but not well done.. lets fix that (less docs that say more)
 
 ## Rainy day TODO:
-- Look at that one bug in the stress test
-- Update baremetal zynq scrubber
 - Fix my readback only scrubber or delete it
-
-- Clean up hybrid_ip project, maybe apply the new ip to the exisiting projects (after some more verification probably)
-- Clean up and archive frame_ecc_driver project. Maybe need to edit the src_project script to make sure it saves the project as is? or just not worry about it.. or maybe there is a way to generate the script from vivado? Ask sebastian
-- Also, I should check to see if the icap instance and the xadc instance are really neccessary?
-
-- Try deploying current version to board and see what happens
-- Try adding new ip to sebastians project
-- Try generating the hardware definition again and see if that works
-- Check to see turning off the undocumented flags does anything?
-- Try a different way of reading the frame ecc device (kernel module?)
-- Try going back to sebastians initial project and see if that works with a new frads list?
-- Document the expected behavior of the hybrid scrubber registers, use them to recreate the ip?
-
-- Maybe look at a tutorial for block designs in Vivado?
-- Clean up the readback only scrubber for better printouts
 
 - Finish 427 Lab 2 (and maybe look at the other Kernel labs)
 - Read linux on MPSoc documentation from William
 
-- Read documentation for PulseOx project
 - Make presentation for Linux on MPSoc

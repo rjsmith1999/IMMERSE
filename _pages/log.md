@@ -11,10 +11,16 @@ title: IMMERSE Log
 |    2PM - 5PM        | 2PM - 5PM  |
 
 
-### I will be out of town until July 15th
-
 -------------------
 ## Log:
+
+### Week 11: July 12 - July 16, 2021
+* **Goals**:
+  - [ ] Test William's files to see if I can build Petalinux for Ultra96
+
+* **Thursday**:
+  - Returned to office from vacation
+  - Applied the board files for William to see if they resolve the issues I'm having with building petalinux
 
 ### Week 9: June 28 - July 2, 2021
 * **Goals**:

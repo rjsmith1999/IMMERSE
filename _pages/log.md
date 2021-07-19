@@ -17,9 +17,12 @@ title: IMMERSE Log
 ### Week 12: July 19 - July 23, 2021
 * **Goals**:
   - [ ] Keep trying to get petalinux working
+  - [ ] Adapt Linux readback scrubber to build in a petalinux project
 
 * **Monday**:
   - I think some of my problems were due to UART not working right, I'm going to slow it down, check the cable carefully and see what happens
+  - Discovered that one of my SD Cards was having trouble. Petalinux now starts up correctly
+  
 
 ### Week 11: July 12 - July 16, 2021
 * **Goals**:

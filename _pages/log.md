@@ -14,6 +14,13 @@ title: IMMERSE Log
 -------------------
 ## Log:
 
+### Week 12: July 19 - July 23, 2021
+* **Goals**:
+  - [ ] Keep trying to get petalinux working
+
+* **Monday**:
+  - I think some of my problems were due to UART not working right, I'm going to slow it down, check the cable carefully and see what happens
+
 ### Week 11: July 12 - July 16, 2021
 * **Goals**:
   - [ ] Test William's files to see if I can build Petalinux for Ultra96

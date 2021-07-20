@@ -16,13 +16,19 @@ title: IMMERSE Log
 
 ### Week 12: July 19 - July 23, 2021
 * **Goals**:
-  - [ ] Keep trying to get petalinux working
-  - [ ] Adapt Linux readback scrubber to build in a petalinux project
+  - [x] Keep trying to get petalinux working
+  - [ ] Email sebastian to inform him of my schedule and ask if there are any followup things to do
+  - [ ] Adapt Linux readback scrubber to build in a petalinux project:
+    - [ ] Build an app to use the existing FPGA manager API and get familiar with how it works
 
 * **Monday**:
   - I think some of my problems were due to UART not working right, I'm going to slow it down, check the cable carefully and see what happens
   - Discovered that one of my SD Cards was having trouble. Petalinux now starts up correctly
-  
+
+* **Tuesday**:
+  - Started working on vitis project to build pmu firmware [DONE: PMU Firmware built]
+  - Discussed with Dr. Wirthlin our goals regarding upcoming radiation test
+  - Going to work more on familiarizing myself with FPGA Manager API
 
 ### Week 11: July 12 - July 16, 2021
 * **Goals**:

@@ -30,6 +30,9 @@ title: IMMERSE Log
   - Discussed with Dr. Wirthlin our goals regarding upcoming radiation test
   - Going to work more on familiarizing myself with FPGA Manager API
 
+* **Wednesday**:
+  - Added Scrubber to petalinux project. Seems to build and work ok!
+
 ### Week 11: July 12 - July 16, 2021
 * **Goals**:
   - [ ] Test William's files to see if I can build Petalinux for Ultra96

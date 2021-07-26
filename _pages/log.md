@@ -27,7 +27,7 @@ title: IMMERSE Log
   - [ ] Finish documentation for linux MPSoc in demo repo (maybe for next week)
 
 * **Monday**:
-  - 
+  - Read through some of the 427 documentation and studied the scrubber code to get a better understanding of how it works
 
 ### Week 12: July 19 - July 23, 2021
 * **Goals**:

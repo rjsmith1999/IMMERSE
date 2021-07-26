@@ -11,15 +11,30 @@ title: IMMERSE Log
 |    2PM - 5PM        | 2PM - 5PM  |
 
 
+**I will be gone Friday, August 6th through Monday, August 23rd**
+
 -------------------
 ## Log:
+
+### Week 12: July 26 - July 30, 2021
+* **Goals**:
+  - [ ] Learn more about Linux drivers
+    - [ ] Figure out why the scrubber driver isn't loaded automatically (Maybe its due to the fpga manager being configured?)
+  - [ ] Add support code for radiation beam test
+    - [ ] Make fault injection configurable without re-compiling
+    - [ ] Add watchdog script that can restart the board over jtag/uart
+    - [ ] Add some kind of cpu benchmark + demo fpga design..
+  - [ ] Finish documentation for linux MPSoc in demo repo (maybe for next week)
+
+* **Monday**:
+  - 
 
 ### Week 12: July 19 - July 23, 2021
 * **Goals**:
   - [x] Keep trying to get petalinux working
-  - [ ] Email sebastian to inform him of my schedule and ask if there are any followup things to do
-  - [ ] Adapt Linux readback scrubber to build in a petalinux project:
-    - [ ] Build an app to use the existing FPGA manager API and get familiar with how it works
+  - [x] Email sebastian to inform him of my schedule and ask if there are any followup things to do
+  - [x] Adapt Linux readback scrubber to build in a petalinux project:
+    - [x] Build an app to use the existing FPGA manager API and get familiar with how it works
 
 * **Monday**:
   - I think some of my problems were due to UART not working right, I'm going to slow it down, check the cable carefully and see what happens

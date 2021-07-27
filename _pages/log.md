@@ -29,6 +29,11 @@ title: IMMERSE Log
 * **Monday**:
   - Read through some of the 427 documentation and studied the scrubber code to get a better understanding of how it works
 
+* **Tuesday**:
+  - Studied the code some more and wrote some documentation on how we interface with the pcap through the pmu
+  - Read some of the docs for the Ultra96-v1, looking for a way to bypass the push button power on (I think its different from the v2)
+
+
 ### Week 12: July 19 - July 23, 2021
 * **Goals**:
   - [x] Keep trying to get petalinux working

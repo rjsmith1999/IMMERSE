@@ -16,6 +16,18 @@ title: IMMERSE Log
 -------------------
 ## Log:
 
+### Week 12: Aug 2 - Aug 6, 2021
+* **Goals**:
+  - [ ] Add support code for radiation beam test
+    - [ ] Make fault injection configurable without re-compiling
+    - [ ] Add some kind of cpu benchmark + demo fpga design..
+    - [ ] Make scrubber run automatically on startup
+      - [ ] Figure out why the scrubber driver isn't loaded automatically (Maybe its due to the fpga manager being configured?)
+    - [ ] Enable ECC for kernel/memory/etc
+  - [ ] Modify the Ultra96-v1 board to startup on power applied
+  - [ ] Finish documentation for linux MPSoc in demo repo (maybe)
+
+
 ### Week 12: July 26 - July 30, 2021
 * **Goals**:
   - [x] Learn more about Linux drivers

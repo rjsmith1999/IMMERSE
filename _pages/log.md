@@ -18,12 +18,15 @@ title: IMMERSE Log
 
 ### Week 12: July 26 - July 30, 2021
 * **Goals**:
-  - [ ] Learn more about Linux drivers
+  - [x] Learn more about Linux drivers
     - [ ] Figure out why the scrubber driver isn't loaded automatically (Maybe its due to the fpga manager being configured?)
   - [ ] Add support code for radiation beam test
     - [ ] Make fault injection configurable without re-compiling
-    - [ ] Add watchdog script that can restart the board over jtag/uart
+    - [x] Add watchdog script that can restart the board over jtag/uart
     - [ ] Add some kind of cpu benchmark + demo fpga design..
+    - [ ] Make scrubber run automatically on startup
+    - [ ] Enable ECC for kernel/memory/etc
+  - [ ] Modify the Ultra96-v1 board to startup on power applied
   - [ ] Finish documentation for linux MPSoc in demo repo (maybe for next week)
 
 * **Monday**:
@@ -33,6 +36,9 @@ title: IMMERSE Log
   - Studied the code some more and wrote some documentation on how we interface with the pcap through the pmu
   - Read some of the docs for the Ultra96-v1, looking for a way to bypass the push button power on (I think its different from the v2)
 
+* **Friday**:
+  - Used python scripts from the DTRA-URA repo to build my own test driver for this experiment
+  - Still need to make the script startup automatically on the petalinux side and/or make the driver script run the test
 
 ### Week 12: July 19 - July 23, 2021
 * **Goals**:

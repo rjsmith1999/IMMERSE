@@ -27,6 +27,13 @@ title: IMMERSE Log
   - [ ] Modify the Ultra96-v1 board to startup on power applied
   - [ ] Finish documentation for linux MPSoc in demo repo (maybe)
 
+* **Monday**:
+  - Work on breakout session presentation for this week
+
+* **Tuesday**:
+  - Work on breakout session presentation for this week
+  - Continued looking for a way to bypass the push on/off switch (Dr. Goeders seems to know.. We'll wait to see what he says)
+
 
 ### Week 12: July 26 - July 30, 2021
 * **Goals**:

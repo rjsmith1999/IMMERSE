@@ -19,9 +19,9 @@ title: IMMERSE Log
 ### Week 12: Aug 2 - Aug 6, 2021
 * **Goals**:
   - [ ] Add support code for radiation beam test
-    - [ ] Make fault injection configurable without re-compiling
+    - [x] Make fault injection configurable without re-compiling
     - [ ] Add some kind of cpu benchmark + demo fpga design..
-    - [ ] Make scrubber run automatically on startup
+    - [x] Make scrubber run automatically on startup
       - [ ] Figure out why the scrubber driver isn't loaded automatically (Maybe its due to the fpga manager being configured?)
     - [ ] Enable ECC for kernel/memory/etc
   - [ ] Modify the Ultra96-v1 board to startup on power applied
@@ -33,6 +33,10 @@ title: IMMERSE Log
 * **Tuesday**:
   - Work on breakout session presentation for this week
   - Continued looking for a way to bypass the push on/off switch (Dr. Goeders seems to know.. We'll wait to see what he says)
+
+* **Wednesday**:
+  - Fix Module autoload
+  - Started adapting python script to program bitstream and run scrubber
 
 
 ### Week 12: July 26 - July 30, 2021

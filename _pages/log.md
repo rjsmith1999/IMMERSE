@@ -36,8 +36,8 @@ title: IMMERSE Log
 
 * **Wednesday**:
   - Fix Module autoload
-  - Started adapting python script to program bitstream and run scrubber
-
+  - Gave breakout session presentation
+  - Adapted python script to program bitstream and run scrubber
 
 ### Week 12: July 26 - July 30, 2021
 * **Goals**:

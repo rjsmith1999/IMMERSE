@@ -39,6 +39,14 @@ title: IMMERSE Log
   - Gave breakout session presentation
   - Adapted python script to program bitstream and run scrubber
 
+* **Thursday**:
+  - ~~Looks like ECC is already enabled (should talk to wes and Dr. Goeders though)~~
+  - ECC must be enabled in vivado project or the ecc driver doesn't load
+  - Added dhrystone benchmark to project
+  - Added example fpga counter to the project
+  - _TODO:_
+    - Create final test driver that runs the scrubber + demo programs and records output
+
 ### Week 12: July 26 - July 30, 2021
 * **Goals**:
   - [x] Learn more about Linux drivers

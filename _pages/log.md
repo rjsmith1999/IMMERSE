@@ -11,10 +11,18 @@ title: IMMERSE Log
 |    2PM - 5PM        | 2PM - 5PM  |
 
 
-**I will be gone Friday, August 6th through Monday, August 23rd**
-
 -------------------
 ## Log:
+
+### Week 15: Aug 25 - Aug 27, 2021
+* **Goals**:
+  - [ ] Finalize experiment for radiation beam test
+    - [ ] Add some kind of cpu benchmark + demo fpga design..
+    - [ ] Modify the Ultra96-v1 board to startup on power applied
+  - [ ] Finish documentation for linux MPSoc in demo repo (maybe)
+
+* **Wednesday**:
+  - Just now getting back in town, reaching out to Dr. Goeders and Wes to finalize experiment  
 
 ### Week 12: Aug 2 - Aug 6, 2021
 * **Goals**:
@@ -23,7 +31,7 @@ title: IMMERSE Log
     - [ ] Add some kind of cpu benchmark + demo fpga design..
     - [x] Make scrubber run automatically on startup
       - [ ] Figure out why the scrubber driver isn't loaded automatically (Maybe its due to the fpga manager being configured?)
-    - [ ] Enable ECC for kernel/memory/etc
+    - [x] Enable ECC for kernel/memory/etc
   - [ ] Modify the Ultra96-v1 board to startup on power applied
   - [ ] Finish documentation for linux MPSoc in demo repo (maybe)
 

@@ -17,12 +17,15 @@ title: IMMERSE Log
 ### Week 15: Aug 25 - Aug 27, 2021
 * **Goals**:
   - [ ] Finalize experiment for radiation beam test
-    - [ ] Add some kind of cpu benchmark + demo fpga design..
-    - [ ] Modify the Ultra96-v1 board to startup on power applied
+    - [x] Add some kind of cpu benchmark + demo fpga design..
+    - [x] Modify the Ultra96-v1 board to startup on power applied
   - [ ] Finish documentation for linux MPSoc in demo repo (maybe)
 
 * **Wednesday**:
-  - Just now getting back in town, reaching out to Dr. Goeders and Wes to finalize experiment  
+  - Just now getting back in town, reaching out to Dr. Goeders and Wes to finalize experiment
+  - Made plan with wes to test integration with netbooter tomorrow
+  - Finished test script and integrated with benchmarks on all cores
+  - Modified board to start on powerup
 
 ### Week 12: Aug 2 - Aug 6, 2021
 * **Goals**:

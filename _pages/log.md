@@ -27,6 +27,13 @@ title: IMMERSE Log
   - Finished test script and integrated with benchmarks on all cores
   - Modified board to start on powerup
 
+* **Thursday**:
+  - Integrated my board with rest of Ultra96 experiments
+  - _TODO:_
+    - Create backup SD card
+    - Add temp monitor
+
+
 ### Week 12: Aug 2 - Aug 6, 2021
 * **Goals**:
   - [ ] Add support code for radiation beam test

@@ -34,6 +34,9 @@ title: IMMERSE Log
   - _TODO:_
     - Create backup SD card
 
+* **Thursday**:
+  - Finished packing up and testing final SD card images for test\
+
 
 ### Week 12: Aug 2 - Aug 6, 2021
 * **Goals**:

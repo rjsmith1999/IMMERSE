@@ -29,9 +29,10 @@ title: IMMERSE Log
 
 * **Thursday**:
   - Integrated my board with rest of Ultra96 experiments
+  - Add temp and voltage monitor
+  - Fix CPU affinity so it actually works
   - _TODO:_
     - Create backup SD card
-    - Add temp monitor
 
 
 ### Week 12: Aug 2 - Aug 6, 2021

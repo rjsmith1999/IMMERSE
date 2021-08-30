@@ -383,25 +383,5 @@ title: IMMERSE Log
   - Xilinx configuration guide
   - Ultrascale+ Reference manual
 
--------------------
-## Docs to make:
- - deploy.sh to package and copy the petalinux build
- - How to format the sd card
- - How to make a new app for petalinux
- - How to configure a new project for the zc706
- - Overview of Hybrid scrubbing at byu (matrix of scrubber types, (readback, frameecc, blind), (linux, baremetal), (mpsoc, zed, pcap differeneces), (pcap, icap, jtag))
- - List of hybrid scrubbers at byu
- - Clean up/organize docs
- - Document gotchas (like the readback mode on my scrubber that doesn't actually do anything useful)
- - Better readme overall (Why would someone be interested in this repo, What the purpose is, type of scrubber from above matrix)
- - Index of all readme's, cleanup?
-
- Right now my docs are extensive but not well done.. lets fix that (less docs that say more)
-
 ## Rainy day TODO:
 - Fix my readback only scrubber or delete it
-
-- Finish 427 Lab 2 (and maybe look at the other Kernel labs)
-- Read linux on MPSoc documentation from William
-
-- Make presentation for Linux on MPSoc

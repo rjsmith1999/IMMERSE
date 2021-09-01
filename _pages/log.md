@@ -19,7 +19,8 @@ title: IMMERSE Log
   - [ ] Finalize experiment for radiation beam test
     - [ ] Update logs to more readable format
     - [ ] Generate stats from logs, organize findings
-    - [ ] MAYBE: update pythong scripts running the test to use a better log format
+    - [ ] MAYBE: update python scripts running the test to use a better log format
+    - [ ] MAYBE: update the sdcard to make use of the test bitstream and confirm that errors are masked
 
 * **Monday**:
   - Things seem to be working over at the test

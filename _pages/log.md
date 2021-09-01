@@ -17,6 +17,9 @@ title: IMMERSE Log
 ### Week 16: Aug 30 - Sep 3, 2021
 * **Goals**:
   - [ ] Finalize experiment for radiation beam test
+    - [ ] Update logs to more readable format
+    - [ ] Generate stats from logs, organize findings
+    - [ ] MAYBE: update pythong scripts running the test to use a better log format
 
 * **Monday**:
   - Things seem to be working over at the test
@@ -30,6 +33,8 @@ title: IMMERSE Log
 * **Wednesday**:
   - Awaiting more logs from test
   - Expermimenting with hybrid scrubber on mpsoc
+  - Got logs back. seems to still be working good
+
 
 ### Week 15: Aug 25 - Aug 27, 2021
 * **Goals**:

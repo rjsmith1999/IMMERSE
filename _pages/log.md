@@ -14,6 +14,23 @@ title: IMMERSE Log
 -------------------
 ## Log:
 
+### Week 16: Aug 30 - Sep 3, 2021
+* **Goals**:
+  - [ ] Finalize experiment for radiation beam test
+
+* **Monday**:
+  - Things seem to be working over at the test
+
+* **Tuesday**:
+  - SD Card appears corrupted from test
+  - Made backup images that use ramfs rather than sd card for file system
+  - Using backup SD card at test, seems to work in the beam
+  - Awaiting more logs from test
+
+* **Wednesday**:
+  - Awaiting more logs from test
+  - Expermimenting with hybrid scrubber on mpsoc
+
 ### Week 15: Aug 25 - Aug 27, 2021
 * **Goals**:
   - [ ] Finalize experiment for radiation beam test
@@ -34,8 +51,8 @@ title: IMMERSE Log
   - _TODO:_
     - Create backup SD card
 
-* **Thursday**:
-  - Finished packing up and testing final SD card images for test\
+* **Friday**:
+  - Finished packing up and testing final SD card images for test
 
 
 ### Week 12: Aug 2 - Aug 6, 2021

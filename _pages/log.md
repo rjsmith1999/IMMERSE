@@ -36,6 +36,8 @@ title: IMMERSE Log
   - Expermimenting with hybrid scrubber on mpsoc
   - Got logs back. seems to still be working good
 
+* **Thursday**:
+  - Made some log parsers for test
 
 ### Week 15: Aug 25 - Aug 27, 2021
 * **Goals**:

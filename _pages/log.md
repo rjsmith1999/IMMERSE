@@ -21,6 +21,7 @@ title: IMMERSE Log
     - [ ] Generate stats from logs, organize findings
     - [ ] MAYBE: update python scripts running the test to use a better log format
     - [ ] MAYBE: update the sdcard to make use of the test bitstream and confirm that errors are masked
+    - [ ] Add documentation to log processing scripts
 
 * **Monday**:
   - Things seem to be working over at the test
@@ -38,6 +39,9 @@ title: IMMERSE Log
 
 * **Thursday**:
   - Made some log parsers for test
+
+* **Friday**:
+  - Wrote log results to csv files
 
 ### Week 15: Aug 25 - Aug 27, 2021
 * **Goals**:

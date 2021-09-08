@@ -17,10 +17,10 @@ title: IMMERSE Log
 ### Week 17: Sep 9 - Sep 10, 2021
 * **Goals**:
   - [ ] Finalize experiment results for radiation beam test
-    - [ ] Add documentation to log processing scripts
+    - [x] Add documentation to log processing scripts
+    - [ ] Create readme of all the error types encountered
     - [ ] Adjust scripts to resolve endtime
     - [ ] Adjust scripts to include fluence data from beam logs
-    - [ ] Create readme of all the error types encountered
 
 * **Wednesday**:
   - Spoke to Dr. Wirthlin about plans for interpreting logs

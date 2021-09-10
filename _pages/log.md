@@ -26,6 +26,9 @@ title: IMMERSE Log
   - Spoke to Dr. Wirthlin about plans for interpreting logs
   - Added some more documentation to log parsings scripts
 
+* **Friday**:
+  - More incremental work with getting logs to compute failure to fluence data
+
 ### Week 16: Aug 30 - Sep 3, 2021
 * **Goals**:
   - [ ] Finalize experiment for radiation beam test

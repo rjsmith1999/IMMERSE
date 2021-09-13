@@ -24,6 +24,8 @@ title: IMMERSE Log
 * **Monday**:
   - Organized workspace a bit more 
   - Worked more on script for inferring end times
+    - End time script kinda works, but there's a lot of rough edges in the data I want to iron out
+    - Need to make a note of all the 'runs' and why they failed
 
 ### Week 17: Sep 9 - Sep 10, 2021
 * **Goals**:

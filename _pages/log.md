@@ -27,6 +27,9 @@ title: IMMERSE Log
     - End time script kinda works, but there's a lot of rough edges in the data I want to iron out
     - Need to make a note of all the 'runs' and why they failed
 
+* **Wednesday**:
+  - Started writing a summary of experiment behavior in the test
+
 ### Week 17: Sep 9 - Sep 10, 2021
 * **Goals**:
   - [ ] Finalize experiment results for radiation beam test

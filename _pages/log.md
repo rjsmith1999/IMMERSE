@@ -29,6 +29,9 @@ title: IMMERSE Log
 
 * **Wednesday**:
   - Started writing a summary of experiment behavior in the test
+  - Updated plot script
+  - _TODO:_ 
+    - Finish Updating Logs to create summary spreadsheets for each run
 
 ### Week 17: Sep 9 - Sep 10, 2021
 * **Goals**:

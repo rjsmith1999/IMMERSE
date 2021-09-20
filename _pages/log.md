@@ -23,6 +23,7 @@ title: IMMERSE Log
     - [ ] Adjust scripts to include fluence data from beam logs
 
 * **Monday**:
+  - Created a new summary format that shows all data for each fault + counts for each run
 
 ### Week 18: Sep 13 - Sep 17, 2021
 * **Goals**:

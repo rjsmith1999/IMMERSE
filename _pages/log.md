@@ -17,6 +17,7 @@ title: IMMERSE Log
 ### Week 19: Sep 20 - Sep 24, 2021
 * **Goals**:
   - [ ] Finalize experiment results for radiation beam test
+    - [ ] Make some kind of python timeseries database of logs so we can query context
     - [ ] Determine how many restarts were initiated by us, vs watchdog
     - [ ] Get to know reasons behind board restarts
     - [ ] Create readme of all the error types encountered

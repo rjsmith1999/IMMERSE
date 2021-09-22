@@ -26,6 +26,9 @@ title: IMMERSE Log
 * **Monday**:
   - Created a new summary format that shows all data for each fault + counts for each run
 
+* **Wednesday**:
+  - Rewrote code for finding markers, added database for saving computed values
+
 ### Week 18: Sep 13 - Sep 17, 2021
 * **Goals**:
   - [ ] Finalize experiment results for radiation beam test

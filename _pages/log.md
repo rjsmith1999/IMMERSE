@@ -17,13 +17,26 @@ title: IMMERSE Log
 ### Week 19: Sep 20 - Sep 24, 2021
 * **Goals**:
   - [ ] Finalize experiment results for radiation beam test
-    - [ ] Adjust scripts to include fluence data from beam logs
+    - [x] Adjust scripts to include fluence data from beam logs
     - [ ] Determine how many restarts were initiated by us, vs watchdog
     - [ ] Get to know reasons behind board restarts
     - [ ] Create readme of all the error types encountered
 
-* **Monday**:
-  - 
+* **Thursday**:
+  - Scripts load fluence data from logs, still not formated right
+  - Added some more fault types to the index.. getting pretty close on finding all faults
+  - _TODO:_
+    - Dive deeper on kernel error messages
+    - Figure out break down on board restarts
+
+* **Friday**:
+  - Added kernel fault types and fixed bugs in cache matchers
+  - _TODO:_
+    - Merge markers and Faults
+    - Add more flexible parsing for repeated lines
+    - Clean up python code
+    - Dive deeper on kernel error messages
+    - Figure out break down on board restarts
 
 
 ### Week 19: Sep 20 - Sep 24, 2021

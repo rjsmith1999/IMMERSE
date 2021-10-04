@@ -14,7 +14,21 @@ title: IMMERSE Log
 -------------------
 ## Log:
 
-### Week 19: Sep 20 - Sep 24, 2021
+### Week 20: Oct 4 - Oct 8, 2021
+  - [ ] Finalize experiment results for radiation beam test
+    - [x] Adjust scripts to include fluence data from beam logs
+    - [x] Create readme of all the error types encountered
+    - [ ] Determine how many restarts were initiated by us, vs watchdog
+    - [ ] Get to know reasons behind board restarts
+
+* **Monday**:
+  - Added Fluence data to log summaries
+  - Went through and completed my list of log messages
+  - _TODO:_
+    - Figure out break down on board restarts, what faults happen before a restart?
+    - Dive deeper on kernel error messages, what intersting data can we extract from an oops
+
+### Week 19: Sep 27 - Oct 1, 2021
 * **Goals**:
   - [ ] Finalize experiment results for radiation beam test
     - [x] Adjust scripts to include fluence data from beam logs

@@ -28,6 +28,9 @@ title: IMMERSE Log
     - Figure out break down on board restarts, what faults happen before a restart?
     - Dive deeper on kernel error messages, what intersting data can we extract from an oops
 
+* **Tuesday**:
+  - Started looking at what events happen before a restart
+
 ### Week 19: Sep 27 - Oct 1, 2021
 * **Goals**:
   - [ ] Finalize experiment results for radiation beam test

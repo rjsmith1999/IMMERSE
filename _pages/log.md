@@ -14,6 +14,16 @@ title: IMMERSE Log
 -------------------
 ## Log:
 
+### Week 22: Oct 18 - Oct 22, 2021
+  - [ ] Finalize experiment results for radiation beam test
+    - [ ] Finish responing to Dr. Wirthin's questions
+    - [ ] Determine how many restarts were initiated by us, vs watchdog
+    - [ ] Get to know reasons behind board restarts
+
+* **Monday**:
+  - Looked a bit more into memcard problem, added some notes
+  - Added a table for MFTF, going to validate it some more
+
 ### Week 20: Oct 4 - Oct 8, 2021
   - [ ] Finalize experiment results for radiation beam test
     - [x] Adjust scripts to include fluence data from beam logs

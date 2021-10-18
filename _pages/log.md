@@ -18,7 +18,8 @@ title: IMMERSE Log
   - [ ] Finalize experiment results for radiation beam test
     - [ ] Finish responing to Dr. Wirthin's questions
     - [ ] Determine how many restarts were initiated by us, vs watchdog
-    - [ ] Get to know reasons behind board restarts
+    - [ ] Learn more about kernel messages and where they come from
+    
 
 * **Monday**:
   - Looked a bit more into memcard problem, added some notes

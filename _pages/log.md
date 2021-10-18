@@ -19,7 +19,6 @@ title: IMMERSE Log
     - [ ] Finish responing to Dr. Wirthin's questions
     - [ ] Determine how many restarts were initiated by us, vs watchdog
     - [ ] Learn more about kernel messages and where they come from
-    
 
 * **Monday**:
   - Looked a bit more into memcard problem, added some notes

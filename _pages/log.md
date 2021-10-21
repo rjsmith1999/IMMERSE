@@ -19,10 +19,19 @@ title: IMMERSE Log
     - [ ] Finish responing to Dr. Wirthin's questions
     - [ ] Determine how many restarts were initiated by us, vs watchdog
     - [ ] Learn more about kernel messages and where they come from
+      - [ ] Try to find location in source code for each message (use oops codes?)
+    - [ ] Document exact configuration for building the experiment so someone can recreate it
+    - [ ] Make a script to generate chains
+      - [ ] Incorporate common events into chains
+      - [ ] Can we group chains into named groups?
 
 * **Monday**:
   - Looked a bit more into memcard problem, added some notes
   - Added a table for MFTF, going to validate it some more
+
+* **Wednesday**:
+  - Reformated the docs from lansce
+  - Added some info about root causes for kernel message chains
 
 ### Week 20: Oct 4 - Oct 8, 2021
   - [ ] Finalize experiment results for radiation beam test

@@ -33,6 +33,9 @@ title: IMMERSE Log
   - Reformated the docs from lansce
   - Added some info about root causes for kernel message chains
 
+* **Thursday**:
+  - Worked more on the root cause of FSBL messages
+
 ### Week 20: Oct 4 - Oct 8, 2021
   - [ ] Finalize experiment results for radiation beam test
     - [x] Adjust scripts to include fluence data from beam logs

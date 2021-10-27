@@ -14,16 +14,33 @@ title: IMMERSE Log
 -------------------
 ## Log:
 
+### Week 23: Oct 25 - Oct 29, 2021
+  - [ ] Document exact configuration for building the experiment so someone can recreate it
+  - [ ] Determine how many restarts were initiated by us, vs watchdog
+  - [ ] Learn more about kernel messages and where they come from
+    - [ ] Try to find location in source code for each message (use oops codes?)
+
+* **Monday**:
+
+* **Wednesday**:
+  - Started sorting though sd cards to make sure I knew which configuration we were actually using for our test.
+  - Need to confirm with Michael, but it seems we were using a new copy of the regular (sdcardfs) image
+  - Started working on some docs for building the experiment
+  - _TODO:_
+    - Keep working on docs
+    - Copy relevant docs from dtra repo
+    - Add docs for radtest scripts
+
 ### Week 22: Oct 18 - Oct 22, 2021
   - [ ] Finalize experiment results for radiation beam test
-    - [ ] Finish responing to Dr. Wirthin's questions
+    - [x] Finish responing to Dr. Wirthin's questions
     - [ ] Determine how many restarts were initiated by us, vs watchdog
     - [ ] Learn more about kernel messages and where they come from
       - [ ] Try to find location in source code for each message (use oops codes?)
     - [ ] Document exact configuration for building the experiment so someone can recreate it
-    - [ ] Make a script to generate chains
-      - [ ] Incorporate common events into chains
-      - [ ] Can we group chains into named groups?
+    - [x] Make a script to generate chains
+      - [x] Incorporate common events into chains
+      - [x] Can we group chains into named groups?
 
 * **Monday**:
   - Looked a bit more into memcard problem, added some notes

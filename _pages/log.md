@@ -26,9 +26,11 @@ title: IMMERSE Log
   - Started sorting though sd cards to make sure I knew which configuration we were actually using for our test.
   - Need to confirm with Michael, but it seems we were using a new copy of the regular (sdcardfs) image
   - Started working on some docs for building the experiment
+
+* **Thursday**:
+  - Worked a bit more on the docs for the lansce test setup.
   - _TODO:_
     - Keep working on docs
-    - Copy relevant docs from dtra repo
     - Add docs for radtest scripts
 
 ### Week 22: Oct 18 - Oct 22, 2021

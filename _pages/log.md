@@ -29,9 +29,14 @@ title: IMMERSE Log
 
 * **Thursday**:
   - Worked a bit more on the docs for the lansce test setup.
+
+* **Friday**:
+  - Almost done the docs for the lansce test setup.
   - _TODO:_
     - Keep working on docs
-    - Add docs for radtest scripts
+    - Move the docs around that we copied from the DTRA-REPO
+    - Add docs for radtest scripts implementation
+    - Add a note about which versions of the scripts were used in the real test
 
 ### Week 22: Oct 18 - Oct 22, 2021
   - [ ] Finalize experiment results for radiation beam test

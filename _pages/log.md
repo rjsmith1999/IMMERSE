@@ -15,7 +15,8 @@ title: IMMERSE Log
 ## Log:
 
 ### Week 23: Oct 25 - Oct 29, 2021
-  - [ ] Document exact configuration for building the experiment so someone can recreate it
+  - [x] Document exact configuration for building the experiment so someone can recreate it
+  - [ ] Add more documentation for radtest Scripts
   - [ ] Determine how many restarts were initiated by us, vs watchdog
   - [ ] Learn more about kernel messages and where they come from
     - [ ] Try to find location in source code for each message (use oops codes?)
@@ -31,10 +32,8 @@ title: IMMERSE Log
   - Worked a bit more on the docs for the lansce test setup.
 
 * **Friday**:
-  - Almost done the docs for the lansce test setup.
+  - Finished the docs for the lansce test setup.
   - _TODO:_
-    - Keep working on docs
-    - Move the docs around that we copied from the DTRA-REPO
     - Add docs for radtest scripts implementation
     - Add a note about which versions of the scripts were used in the real test
 

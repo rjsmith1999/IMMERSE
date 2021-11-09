@@ -14,6 +14,18 @@ title: IMMERSE Log
 -------------------
 ## Log:
 
+### Week 25: Nov 8 - Nov 12, 2021
+  - [ ] Add more documentation for radtest Scripts
+  - [ ] Determine how many restarts were initiated by us, vs watchdog
+  - [ ] Learn more about kernel messages and where they come from
+    - [ ] Try to find location in source code for each message (use oops codes?)
+
+* **Monday**:
+  - Add some more docs about message chains. Use the word message in place of events as it is more clear
+  - Moved chain generation out to its own script
+  - _TODO:_
+    - Add docs for radtest scripts implementation
+    - Add a note about which versions of the scripts were used in the real test
 
 ### Week 24: Nov 1 - Nov 5, 2021
   - [x] Redo the fluence to Failure table so it works on chains not events

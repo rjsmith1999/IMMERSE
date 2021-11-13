@@ -16,7 +16,11 @@ title: IMMERSE Log
 
 ### Week 25: Nov 8 - Nov 12, 2021
   - [ ] Add more documentation for radtest Scripts
+  - [ ] Make a note about each message chain
+  - [ ] Add a note about chains that cause timeout vs not
+  - [ ] Why are there OCM upsets?
   - [ ] Determine how many restarts were initiated by us, vs watchdog
+  - [ ] Make some plans for next test
   - [ ] Learn more about kernel messages and where they come from
     - [ ] Try to find location in source code for each message (use oops codes?)
 
@@ -26,6 +30,14 @@ title: IMMERSE Log
   - _TODO:_
     - Add docs for radtest scripts implementation
     - Add a note about which versions of the scripts were used in the real test
+
+* **Friday**:
+  - Spoke to Dr. Wirthlin about organizing results and future tests.
+  - Added some notes about each chain
+  - _TODO:_
+    - Add docs for radtest scripts implementation
+    - Add a note about which versions of the scripts were used in the real test
+
 
 ### Week 24: Nov 1 - Nov 5, 2021
   - [x] Redo the fluence to Failure table so it works on chains not events

@@ -14,6 +14,30 @@ title: IMMERSE Log
 -------------------
 ## Log:
 
+
+### Week 26: Nov 15 - Nov 17, 2021
+  - [ ] Add more documentation for radtest Scripts
+  - [x] Make a note about each message chain
+  - [x] Add a note about chains that cause timeout vs not
+  - [ ] Why are there OCM upsets?
+  - [ ] Determine how many restarts were initiated by us, vs watchdog
+  - [ ] Make some plans for next test
+  - [ ] Learn more about kernel messages and where they come from
+    - [ ] Try to find location in source code for each message (use oops codes?)
+
+* **Monday**:
+  - Added some notes about each message chain
+  - Grouped by chains that cause a timeout vs those that don't
+
+* **Wednesday**:
+  - Talked to Wes about generating confidence intervals for per-bit cross section.
+  - _TODO:_
+    - Change summaries script so that it generates all the tables from my docs
+    - Add per-bit confidence intervals to the above
+    - Add docs for radtest scripts implementation
+    - Add a note about which versions of the scripts were used in the real test
+
+
 ### Week 25: Nov 8 - Nov 12, 2021
   - [ ] Add more documentation for radtest Scripts
   - [ ] Make a note about each message chain

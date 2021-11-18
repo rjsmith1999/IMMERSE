@@ -37,6 +37,13 @@ title: IMMERSE Log
     - Add docs for radtest scripts implementation
     - Add a note about which versions of the scripts were used in the real test
 
+* **Wednesday**:
+  - Implement per-bit cross section
+  - _TODO:_
+    - Show confidence interval as a percent
+    - Add docs for radtest scripts implementation
+    - Add a note about which versions of the scripts were used in the real test
+
 
 ### Week 25: Nov 8 - Nov 12, 2021
   - [ ] Add more documentation for radtest Scripts

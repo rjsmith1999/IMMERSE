@@ -14,6 +14,18 @@ title: IMMERSE Log
 -------------------
 ## Log:
 
+### Week 28: Nov 29 - Dec 3, 2021
+  - [ ] Add more documentation for radtest Scripts
+  - [ ] Why are there OCM upsets?
+  - [ ] Determine how many restarts were initiated by us, vs watchdog
+  - [ ] Make some plans for next test
+  - [ ] Learn more about kernel messages and where they come from
+    - [ ] Try to find location in source code for each message (use oops codes?)
+
+* **Monday**:
+  - Added some notes about each message message with some links to kernel code
+  - _TODO:_
+    - Reclasify messages based on what I now know about the kernel source (die, panic, and fault messages)
 
 ### Week 26: Nov 15 - Nov 17, 2021
   - [ ] Add more documentation for radtest Scripts
@@ -37,7 +49,7 @@ title: IMMERSE Log
     - Add docs for radtest scripts implementation
     - Add a note about which versions of the scripts were used in the real test
 
-* **Wednesday**:
+* **Friday**:
   - Implement per-bit cross section
   - _TODO:_
     - Show confidence interval as a percent
